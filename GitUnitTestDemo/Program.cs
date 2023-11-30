@@ -12,6 +12,7 @@ namespace GitUnitTestDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Simple Calculator");
+	    Console.WriteLine("For educational purposes only.");
             EnterValues();
             int operation = -1;
             while(operation != 0)
