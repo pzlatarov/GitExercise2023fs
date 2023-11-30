@@ -1,0 +1,7 @@
+GitUnitTestDemo/bin/*
+GitUnitTestDemo/obj/*
+*.exe
+*dll
+.vs
+*.config
+.env
